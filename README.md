@@ -18,11 +18,10 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
 <h3>How I'd define myself...literally</h3>
 
  ```ruby
- class Sy < Person
+ class AL < Person
    def initialize
      @name = 'Miu Lun (Andy) Lau'
      @age = 26
-     @work = [ 'MangoTree Dev', 'ARTSVP', 'Carinspect', 'Instamove', 'Le Wagon' ]
      @education = [ 'Boise State BS', 'BS PhD' ]
      @hobbies = [ 'Skydiving', 'Snowboarding', 'Tacos' ]
    end
@@ -56,15 +55,19 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
 
 ### What I always play with
 
-<p>
+#### Language
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+<!-- <p>
   <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c%2B%2B.svg" alt="C++-logo">
   <!-- <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849662/javascript_eniubp.png" alt="js-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849661/css_jtfcoz.png" alt="css-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849660/postgresql_zsfd9p.png" alt="postgres-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849655/ruby_nrq1jy.png" alt="ruby-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598850690/rails_1_vess2v.png" alt="rails-logo">
-  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849656/figma_ugopbh.png" alt="figma-logo"> -->
-</p>
+  <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849656/figma_ugopbh.png" alt="figma-logo">
+</p> -->
 
 <br>
 
