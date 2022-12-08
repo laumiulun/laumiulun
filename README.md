@@ -17,53 +17,29 @@ When I'm not coding find me taking photos, climbing mountains, or running
 
 <h3>How I'd define myself...literally</h3>
 
- ```ruby
- class AL < Person
-   def initialize
-     @name = 'Miu Lun (Andy) Lau'
-     @age = 26
-     @education = [ 'Boise State BS', 'BS PhD' ]
-     @hobbies = [ 'Skydiving', 'Snowboarding', 'Tacos' ]
-   end
+```python
+class AL:
 
-   def current_location
-     'Boise, Idaho'
-   end
+  def __init__(self):
+    self.name = Miu Lun (Andy) Lau
+    self.age  = 26
+    self.eduction = ['BS - Mechanical Engineering', 'PhD Computational Science']
 
-   def next_locations
-     ['Space']
-   end
-
-   def currently
-     {
-       studying: [ 'Machine Learning, GPU Accelerations, Physical Modeling' ],
-       reading: [ 'Machine Learning', 'Intellgence Geometry Design' ],
-       tinkering: [ 'Linear Algebra', 'Python', '']
-      }
-   end
-
-   def projects
-    {
-      'Spectral Analysis through Machine Learning': ['EXAFS','Nano-Indentation', 'XPS'],
-      'Intellgence Object Design using Genetic Algorithms': ['Thermoelectric','Heat Exchanger'],
-      'Machine Learning': ['Material properties predictions','Material design']
-    }
- end
- ```
+```
 
 <br>
 
 ### What I always play with
 
-#### Language
+##### Languages
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-##### IDE
+###### IDEs
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
-##### Packages
+###### Packages
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
