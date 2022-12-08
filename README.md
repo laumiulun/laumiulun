@@ -23,16 +23,11 @@ class AL:
     self.name = Miu Lun (Andy) Lau
     self.age  = 26
     self.eduction = ['BS - Mechanical Engineering', 'PhD Computational Science']
-   def projects
-    {
-      'Spectral Analysis through Machine Learning': ['EXAFS','Nano-Indentation', 'XPS'],
-      'Intellgence Object Design using Genetic Algorithms': ['Thermoelectric','Heat Exchanger'],
-      'Machine Learning': ['Material properties predictions','Material design']
-    }
+
   def projects(self):
     self.projects['Spectral Analysis through Machine Learning'] = ['EXAFS','Nano-Indentation', 'XPS']
     self.projects['Intelligence Object Design using Genetic Algorithms'] = ['Thermoelectric', 'Heat Exchanger']
-    self.projects['Machine LEarning']
+    self.projects['Machine Learning'] = ['Material properties predictions','Material design']
 ```
 
 <br>
