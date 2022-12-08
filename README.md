@@ -9,9 +9,9 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
 
 <div align="center">
 
-  [![Linkedin Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miulunlau/)](https://www.linkedin.com/in/miulunlau/)
+  [![Linkedin Badge](https://img.shields.io/badge/-miulunlau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miulunlau/)](https://www.linkedin.com/in/miulunlau/)
   <!-- [![Medium Badge](https://img.shields.io/badge/-@syrashid-03a57a?style=flat-square&label&logo=Medium&link=https://medium.com/@syrashid/)](https://syrashid.medium.com) -->
-  [![Gmail Badge](https://img.shields.io/badge/-sy@mangotree.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laumiulunn@gmail.com)](mailto:sy@mangotree.dev)
+  [![Gmail Badge](https://img.shields.io/badge/-laumiulunn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laumiulunn@gmail.com)](mailto:laumiulunn@gmail.com)
 </div>
 <br>
 
