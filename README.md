@@ -75,14 +75,18 @@ When I'm not coding find me taking photos, climbing mountains, or running
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-### What I sometimes play with
+<!-- ### What I sometimes play with -->
 
-<br>
+<!-- <br> -->
+
+###### OS
+
+![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 ### Quick stats about me
 
 | Github Stats | Top Languages |
 | --- | --- |
-| ![laumiulun's github stats](https://github-readme-stats.vercel.app/api?username=syrashid&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![laumiulun's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syrashid&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+| ![laumiulun's github stats](https://github-readme-stats.vercel.app/api?username=laumiulun&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![laumiulun's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laumiulun&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=laumiulun.laumiulun) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/laumiulun) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/laumiulun)
