@@ -1,17 +1,16 @@
 <h1 align="center">🤠 Howdy! I'm Andy </h1>
 
 <p align="center">
-I am currently a Doctorate candidate at Boise State University, studying Computing. My main research deals with microstructure evolution in extreme environment using state of the art research code. I am highly motivated individual with extensive experience in multiscale modeling. Extensive experience in Finite Element Modeling (FEM), Phasefield, and Molecular Dynamics. Skilled in numerous optimization methods using Machine Learning and Deep Learning. Efficient and confident while working individually or in a team environment.
+I am currently a Doctorate candidate at Boise State University, studying Computing. My main research deals with microstructure evolution in extreme environment using state of the art research code. I am highly motivated individual with extensive experience in multiphysics & multiscale modeling. In additions I am also skilled in optimization using Machine Learning and Deep Learning.
+
 </p>
 <p align="center">
-When I'm not coding find me taking photos, climbing mountains, or running
+When I'm not coding find me taking photos, climbing mountains, or running.
 </p>
 
 <div align="center">
 
-  [![Linkedin Badge](https://img.shields.io/badge/-miulunlau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miulunlau/)](https://www.linkedin.com/in/miulunlau/)
-  <!-- [![Medium Badge](https://img.shields.io/badge/-@syrashid-03a57a?style=flat-square&label&logo=Medium&link=https://medium.com/@syrashid/)](https://syrashid.medium.com) -->
-  [![Gmail Badge](https://img.shields.io/badge/-laumiulunn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laumiulunn@gmail.com)](mailto:laumiulunn@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-miulunlau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miulunlau/)](https://www.linkedin.com/in/miulunlau/) [![GitHub Pages Badge](https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=flat-square&link=https://laumiulun@github.io/)](https://laumiulun.github.io/) [![Gmail Badge](https://img.shields.io/badge/-laumiulunn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laumiulunn@gmail.com)](mailto:laumiulunn@gmail.com)
 </div>
 <br>
 
@@ -24,7 +23,16 @@ class AL:
     self.name = Miu Lun (Andy) Lau
     self.age  = 26
     self.eduction = ['BS - Mechanical Engineering', 'PhD Computational Science']
-
+   def projects
+    {
+      'Spectral Analysis through Machine Learning': ['EXAFS','Nano-Indentation', 'XPS'],
+      'Intellgence Object Design using Genetic Algorithms': ['Thermoelectric','Heat Exchanger'],
+      'Machine Learning': ['Material properties predictions','Material design']
+    }
+  def projects(self):
+    self.projects['Spectral Analysis through Machine Learning'] = ['EXAFS','Nano-Indentation', 'XPS']
+    self.projects['Intelligence Object Design using Genetic Algorithms'] = ['Thermoelectric', 'Heat Exchanger']
+    self.projects['Machine LEarning']
 ```
 
 <br>
