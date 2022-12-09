@@ -3,16 +3,16 @@
 <p align="center">
 I am currently a Doctorate candidate at Boise State University, studying Computing. My main research deals with microstructure evolution in extreme environment using state of the art research code. I am highly motivated individual with extensive experience in multiphysics & multiscale modeling. In additions I am also skilled in optimization using Machine Learning and Deep Learning.
 
-</p>
-<p align="center">
-When I'm not coding find me taking photos, climbing mountains, or running.
-</p>
+<!-- <div align="center">
+  Language:
 
+  <a href="">![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a>
+
+</div> -->
 <div align="center">
 
-  [![Linkedin Badge](https://img.shields.io/badge/-miulunlau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miulunlau/)](https://www.linkedin.com/in/miulunlau/) [![GitHub Pages Badge](https://img.shields.io/badge/GitHub%20Pages-222?logo=githubpages&logoColor=fff&style=flat-square&link=https://laumiulun@github.io/)](https://laumiulun.github.io/) [![Gmail Badge](https://img.shields.io/badge/-laumiulunn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laumiulunn@gmail.com)](mailto:laumiulunn@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-miulunlau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miulunlau/)](https://www.linkedin.com/in/miulunlau/) [![GitHub Pages Badge](https://img.shields.io/badge/-laumiulun@github.io-222?logo=githubpages&logoColor=fff&style=flat-square&link=https://laumiulun@github.io/)](https://laumiulun.github.io/) [![Gmail Badge](https://img.shields.io/badge/-laumiulunn@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laumiulunn@gmail.com)](mailto:laumiulunn@gmail.com)
 </div>
-<br>
 
 <h3>How I'd define myself...literally</h3>
 
@@ -34,7 +34,7 @@ class AL:
 
 ### What I always play with
 
-##### Languages
+###### Languages
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
