@@ -1,7 +1,7 @@
 <h1 align="center">🤠 Howdy! I'm Andy </h1>
 
 <p align="center">
-I am currently a Doctorate candidate at Boise State University, studying Computing. My main research deals with microstructure evolution in extreme environment using state of the art research code. I am highly motivated individual with extensive experience in multiphysics & multiscale modeling. In additions I am also skilled in optimization using Machine Learning and Deep Learning.
+I am currently a Senior Scientist at BAE System Inc. I hold a PhD in Computational Science & Engineering and Bachelor of Science of Mechanical Engineering from Boise State University. My current research focuses on algorithms optimization and machine learning using deep learning.
 
 <!-- <div align="center">
   Language:
@@ -21,13 +21,14 @@ class AL:
 
   def __init__(self):
     self.name = Miu Lun (Andy) Lau
-    self.age  = 26
-    self.eduction = ['BS - Mechanical Engineering', 'PhD Computational Science']
+    self.age  = 27
+    self.eduction = ['BS - Mechanical Engineering', 'PhD Computational Science & Engineering']
 
   def projects(self):
     self.projects['Spectral Analysis through Machine Learning'] = ['EXAFS','Nano-Indentation', 'XPS']
     self.projects['Intelligence Object Design using Genetic Algorithms'] = ['Thermoelectric', 'Heat Exchanger']
     self.projects['Machine Learning'] = ['Material properties predictions','Material design']
+    self.projects['Deep Learning'] = ['GPT', 'LSTM', 'LVM', 'CNN', 'GAN']
 ```
 
 <br>
