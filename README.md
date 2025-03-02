@@ -1,7 +1,7 @@
 <h1 align="center">🤠 Howdy! I'm Andy </h1>
 
 <p align="center">
-I am currently a Senior Scientist at BAE System Inc. I hold a PhD in Computer Science with a emphasis in Computational Science & Engineering and Bachelor of Science of Mechanical Engineering from Boise State University. My current interest is in developing useful and interesting tools coupled with AI agents.
+I am currently a Principal Scientist at BAE System Inc. I hold a PhD in Computer Science with a emphasis in Computational Science & Engineering and Bachelor of Science of Mechanical Engineering from Boise State University. My current interest is in developing useful and interesting tools coupled with AI agents.
 
 <!-- <div align="center">
   Language:
