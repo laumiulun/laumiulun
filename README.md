@@ -25,10 +25,13 @@ class AL:
     self.eduction = ['BS - Mechanical Engineering', 'PhD Computational Science & Engineering']
 
   def projects(self):
+    self.projects = {}
+    self.projects['LLM_Agent'] = ['LangChain/LangGraph', 'AutoGPT', 'BabyAGI', 'CrewAI', 'AgentGPT']
     self.projects['Spectral Analysis through Machine Learning'] = ['EXAFS','Nano-Indentation', 'XPS']
     self.projects['Intelligence Object Design using Genetic Algorithms'] = ['Thermoelectric', 'Heat Exchanger']
     self.projects['Machine Learning'] = ['Material properties predictions','Material design']
-    self.projects['Deep Learning'] = ['GPT', 'LSTM', 'LVM', 'CNN', 'GAN']
+    self.projects['Deep Learning'] = ['NLP','GPT', 'LSTM', 'LVM', 'CNN', 'GAN']
+
 ```
 
 <br>
@@ -37,7 +40,7 @@ class AL:
 
 ###### Languages
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ###### IDEs
 
@@ -53,7 +56,8 @@ class AL:
 
 ##### Visualizations
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)![Seaborn](https://img.shields.io/badge/Seaborn-%232E4A62.svg?style=for-the-badge&logo=seaborn&logoColor=white)![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
+
 
 <!-- ### What I sometimes play with -->
 
@@ -69,4 +73,5 @@ class AL:
 | --- | --- |
 | ![laumiulun's github stats](https://github-readme-stats.vercel.app/api?username=laumiulun&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![laumiulun's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laumiulun&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) | -->
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=laumiulun.laumiulun) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/laumiulun) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/laumiulun)
+<!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=laumiulun.laumiulun)  -->
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/laumiulun) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/laumiulun)
